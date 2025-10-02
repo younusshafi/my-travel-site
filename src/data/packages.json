@@ -1,0 +1,72 @@
+{
+  "destinations": [
+    {
+      "id": 1,
+      "name": "Santorini, Greece",
+      "price": 1299,
+      "duration": "7 Days",
+      "rating": 4.9,
+      "tag": "Popular",
+      "image": "https://images.unsplash.com/photo-1570077188670-e3a8d69ac5ff?ixlib=rb-4.0.1&auto=format&fit=crop&w=800&q=80",
+      "description": "Experience breathtaking sunsets from luxury cliffside villas with private pools and stunning caldera views.",
+      "highlights": ["Private Infinity Pool", "Sunset Dinner Cruise", "Wine Tasting Tour", "Luxury Spa"],
+      "includes": ["5-Star Hotel", "Breakfast & Dinner", "Airport Transfers", "Tour Guide"]
+    },
+    {
+      "id": 2,
+      "name": "Bali, Indonesia",
+      "price": 899,
+      "duration": "10 Days", 
+      "rating": 4.8,
+      "tag": "Luxury",
+      "image": "https://images.unsplash.com/photo-1518548419970-58e3b4079ab2?ixlib=rb-4.0.1&auto=format&fit=crop&w=800&q=80",
+      "description": "Private villas surrounded by lush tropical forests and pristine beaches with personalized butler service.",
+      "highlights": ["Private Villa", "Beachfront Access", "Cultural Tours", "Yoga Sessions"],
+      "includes": ["Luxury Villa", "All Meals", "Spa Treatments", "Private Driver"]
+    },
+    {
+      "id": 3,
+      "name": "Kyoto, Japan", 
+      "price": 1599,
+      "duration": "8 Days",
+      "rating": 4.9,
+      "tag": "Cultural",
+      "image": "https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e?ixlib=rb-4.0.1&auto=format&fit=crop&w=800&q=80",
+      "description": "Immerse yourself in ancient traditions, tea ceremonies, and stunning temple visits in the cultural heart of Japan.",
+      "highlights": ["Tea Ceremony", "Temple Tours", "Traditional Ryokan", "Cherry Blossom Viewing"],
+      "includes": ["Traditional Ryokan", "All Meals", "Cultural Guide", "Bullet Train Pass"]
+    },
+    {
+      "id": 4,
+      "name": "Maldives",
+      "price": 2199,
+      "duration": "6 Days",
+      "rating": 4.9,
+      "tag": "Luxury", 
+      "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?ixlib=rb-4.0.1&auto=format&fit=crop&w=800&q=80",
+      "description": "Overwater bungalows with glass floors, private butlers, and crystal-clear waters for the ultimate luxury escape.",
+      "highlights": ["Overwater Bungalow", "Snorkeling", "Private Chef", "Spa Treatments"],
+      "includes": ["Overwater Villa", "Gourmet Dining", "Water Sports", "Spa Access"]
+    }
+  ],
+  "heroSlides": [
+    {
+      "title": "Discover Santorini",
+      "subtitle": "Experience breathtaking sunsets from luxury cliffside villas",
+      "cta": "Explore Greece",
+      "image": "https://images.unsplash.com/photo-1570077188670-e3a8d69ac5ff?ixlib=rb-4.0.1&auto=format&fit=crop&w=2850&q=80"
+    },
+    {
+      "title": "Bali Paradise",
+      "subtitle": "Private villas surrounded by lush tropical forests and pristine beaches", 
+      "cta": "Discover Bali",
+      "image": "https://images.unsplash.com/photo-1518548419970-58e3b4079ab2?ixlib=rb-4.0.1&auto=format&fit=crop&w=2850&q=80"
+    },
+    {
+      "title": "Swiss Alps",
+      "subtitle": "Mountain retreats with panoramic views and luxury amenities",
+      "cta": "Alpine Escape", 
+      "image": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?ixlib=rb-4.0.1&auto=format&fit=crop&w=2850&q=80"
+    }
+  ]
+}
