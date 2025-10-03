@@ -1,0 +1,75 @@
+{
+  "destinations": [
+    {
+      "name": "Santorini, Greece",
+      "slug": "santorini-greece",
+      "price": 1299,
+      "duration": "7 Days",
+      "rating": 4.9,
+      "tag": "Luxury",
+      "description": "Experience breathtaking sunsets from luxury cliffside villas with private pools and stunning caldera views. Perfect for romantic getaways and luxury travelers seeking the ultimate Greek island experience.",
+      "highlights": "Private Infinity Pool\nSunset Dinner Cruise\nWine Tasting Tour\nLuxury Spa Treatments\nCaldera Views",
+      "includes": "5-Star Cliffside Hotel\nDaily Breakfast & Dinner\nAirport Transfers\nPrivate Tour Guide\nAll Entrance Fees",
+      "featuredImage": "https://images.unsplash.com/photo-1570077188670-e3a8d69ac5ff?ixlib=rb-4.0.1&auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "name": "Bali, Indonesia",
+      "slug": "bali-indonesia", 
+      "price": 899,
+      "duration": "10 Days",
+      "rating": 4.8,
+      "tag": "Luxury",
+      "description": "Private villas surrounded by lush tropical forests and pristine beaches with personalized butler service. Experience Balinese culture and luxury in perfect harmony.",
+      "highlights": "Private Villa with Pool\nBeachfront Access\nCultural Temple Tours\nYoga & Meditation\nTraditional Spa",
+      "includes": "Luxury Private Villa\nAll Meals Included\nAirport Transfers\nCultural Guide\nSpa Treatments",
+      "featuredImage": "https://images.unsplash.com/photo-1518548419970-58e3b4079ab2?ixlib=rb-4.0.1&auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "name": "Kyoto, Japan",
+      "slug": "kyoto-japan",
+      "price": 1599,
+      "duration": "8 Days", 
+      "rating": 4.9,
+      "tag": "Cultural",
+      "description": "Immerse yourself in ancient traditions, tea ceremonies, and stunning temple visits in the cultural heart of Japan. Experience the perfect blend of history and luxury.",
+      "highlights": "Traditional Tea Ceremony\nAncient Temple Tours\nCherry Blossom Viewing\nGeisha District Visit\nTraditional Ryokan Stay",
+      "includes": "Luxury Traditional Ryokan\nAll Meals Included\nBullet Train Pass\nCultural Guide\nAll Entrance Fees",
+      "featuredImage": "https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e?ixlib=rb-4.0.1&auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "name": "Maldives",
+      "slug": "maldives",
+      "price": 2199,
+      "duration": "6 Days",
+      "rating": 4.9,
+      "tag": "Luxury",
+      "description": "Overwater bungalows with glass floors, private butlers, and crystal-clear waters for the ultimate luxury escape. Perfect for honeymooners and luxury seekers.",
+      "highlights": "Overwater Bungalow\nPrivate Snorkeling\nSunset Cruises\nLuxury Spa\nPrivate Chef",
+      "includes": "Overwater Villa\nGourmet Dining\nWater Sports Equipment\nSpa Access\nAirport Speedboat Transfer", 
+      "featuredImage": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?ixlib=rb-4.0.1&auto=format&fit=crop&w=800&q=80"
+    }
+  ],
+  "heroSlides": [
+    {
+      "title": "Discover Santorini",
+      "subtitle": "Experience breathtaking sunsets from luxury cliffside villas",
+      "ctaText": "Explore Greece",
+      "backgroundImage": "https://images.unsplash.com/photo-1570077188670-e3a8d69ac5ff?ixlib=rb-4.0.1&auto=format&fit=crop&w=2850&q=80",
+      "active": true
+    },
+    {
+      "title": "Bali Paradise", 
+      "subtitle": "Private villas surrounded by lush tropical forests and pristine beaches",
+      "ctaText": "Discover Bali",
+      "backgroundImage": "https://images.unsplash.com/photo-1518548419970-58e3b4079ab2?ixlib=rb-4.0.1&auto=format&fit=crop&w=2850&q=80",
+      "active": true
+    },
+    {
+      "title": "Cultural Wonders",
+      "subtitle": "Immerse yourself in Japan's ancient traditions and modern marvels", 
+      "ctaText": "Experience Japan",
+      "backgroundImage": "https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e?ixlib=rb-4.0.1&auto=format&fit=crop&w=2850&q=80",
+      "active": true
+    }
+  ]
+}
